@@ -8,7 +8,7 @@ I’m Hyun’s dedicated Telegram assistant. I’ll safely forward your messages
  📌 How to use
 
 - Just type your question, idea, or request  
-- I’ll instantly pass it on to Hyun  
+- I’ll instantly pass it on to @tsaiHyun  
 - Hyun will read and reply as soon as possible — please be patient
 
 ---
